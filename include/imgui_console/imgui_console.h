@@ -11,7 +11,7 @@
 #endif
 
 #include "csys/system.h"
-#include "ImGui/imgui.h"
+#include "imgui.h"
 #include <array>
 
 struct ImGuiSettingsHandler;

@@ -10,7 +10,7 @@
 
 #include <string>
 #include "imgui_console/imgui_console.h"
-#include "ImGui/imgui_internal.h"
+#include "imgui_internal.h"
 #include <cstring>
 
 // The following three functions (InputTextCallback_UserData, InputTextCallback, InputText) are obtained from misc/cpp/imgui_stdlib.h
